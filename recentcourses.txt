@@ -1,0 +1,18 @@
+Comp Fundamentals 1, 2
+NASM/MASM Programming
+Computer Networks
+Computer Applications
+Data Structures
+Analysis of Algorithms
+Computing Theory
+Database Management
+Programming Languages
+Advanced Algorithms in Scala
+Big Data with Spark
+Engr Ethics, Prof Practice
+Calculus 1, 2, 3
+Discrete Mathematics
+Digital Design
+Statistics
+Linear Algebra 1, 2
+Physics 1, 2, 3
